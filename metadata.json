@@ -1,0 +1,59 @@
+{
+  "siteId": "wall-art-selection-tips",
+  "generatedAt": "2026-06-04T11:35:41.294301",
+  "categories": [
+    "beginner-wall-art-selection-tips",
+    "advanced-wall-art-selection-tips",
+    "tips-wall-art-selection-tips",
+    "history-wall-art-selection-tips",
+    "trending-wall-art-selection-tips",
+    "tutorials-wall-art-selection-tips"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-wall-art-selection-tips",
+      "category_name": "Beginner Wall Art Selection Tips"
+    },
+    {
+      "category_slug": "advanced-wall-art-selection-tips",
+      "category_name": "Advanced Wall Art Selection Tips"
+    },
+    {
+      "category_slug": "tips-wall-art-selection-tips",
+      "category_name": "Wall Art Selection Tips Tips"
+    },
+    {
+      "category_slug": "history-wall-art-selection-tips",
+      "category_name": "Wall Art Selection Tips History"
+    },
+    {
+      "category_slug": "trending-wall-art-selection-tips",
+      "category_name": "Trending Wall Art Selection Tips"
+    },
+    {
+      "category_slug": "tutorials-wall-art-selection-tips",
+      "category_name": "Wall Art Selection Tips Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "wall-art-selection-tips",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Wall Art Selection Tips Central",
+    "articles_per_row": 4
+  }
+}
